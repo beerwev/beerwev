@@ -1,0 +1,37 @@
+{ 
+"name":"ThaiVIP",
+"author":"เรารักเมืองไทย",
+"info":"",
+"url":"",
+"image":"https://aux.iconspalace.com/uploads/228118790.png",
+"groups": 
+[
+
+{"name":"Thai VDO",
+"image":"https://yamcode.com/raw/thai-26990",
+"image":"https://icon-library.com/images/vhs-icon/vhs-icon-2.jpg",
+"url":"www"},
+
+{"name":"Thai VCD",
+"image":"https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9073.png",
+"url":"www"},
+
+{"name":"Thai DVD",
+"image":"https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9079.png",
+"url":"www"},
+
+{"name":"Thai R",
+"image":"https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R.png",
+"url":"www"},
+
+{"name":"Thai NET",
+"image":"https://www.pngall.com/wp-content/uploads/8/Globe-Internet-PNG-Picture.png",
+"url":"www"},
+
+{"name":"Thai 5G",
+"image":"https://cdn-icons-png.flaticon.com/128/4381/4381341.png",
+"url":"www"},
+
+
+]
+}
