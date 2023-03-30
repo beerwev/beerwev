@@ -170,8 +170,8 @@
 {"name":"SportTV",
 "info":"ลีกโปรตุเกส ลาติน",
 "image":"https://mir-s3-cdn-cf.behance.net/user/276/8275aa40912493.5a140951d1ddd.png",
-"url":"https://streaming-3.vip-streaming.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_1080p/chunks.m3u8",
-"referer":"www.ufabetcompany.com"},
+"url":"https://cdn1.aws-live-streaming.com/ais/sporttv1/chunks.m3u8",
+"referer":"https://aisplay24hd.com"},
 
 {"name":"Arena Sport",
 "info":"ลีกรัสเซีย ยุโรป",
@@ -182,8 +182,8 @@
 {"name":"DIGIsport",
 "info":"ช่องกีฬาโรมาเนีย",
 "image":"https://m.digisport.ro/static/theme-mobile-repo/bin/images/logo-digisport.png",
-"url":"https://streaming-3.vip-streaming.com:30443/cloudstreaming/Digi%20Sport%204%20Romania_1080p/chunks.m3u8",
-"referer":"https://ufabetcompany.com"}, 
+"url":"https://cdn1.aws-live-streaming.com/ais/digisport1/chunks.m3u8",
+"referer":"https://aisplay24hd.com"}, 
 
 {"name":"Bein1TU",
 "info":"ช่องกีฬาตุรกี",
@@ -220,8 +220,8 @@
 {"name":"SK4",
 "info":"ช่องกีฬายุโรป",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",
-"url":"https://cdn.googlecdnforstreaming.live/ballsod24hrs/sportklub4slovenia/chunks.m3u8",
-"referer":"https://ballsod24hrs.com"},
+"url":"https://cdn.googlecdnforstreaming.live/dooballx/sportklub4slovenia/chunks.m3u8",
+"referer":"https://dooballx.com"},
 
 {"name":"ElevenSport1",
 "info":"ช่องกีฬาเบลเยี่ยม",
@@ -249,12 +249,6 @@
 "url":"https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8",
 "referer":"https://livescorethai.net/"},
 
-{"name":"BeinENG",
-"info":"บีอินอังกฤษ",
-"image":"https://www.beinxtraespanol.com/images/XTRA-SITE_LANGUAGE_BUTTONS_ENGLISH.png", 
-"url":"https://streaming-3.vip-streaming.com:30443/cloudstreaming/beIN%20Sports%203%20English_1080p/playlist.m3u8",
-"referer":"https://ufabetcompany.com"},
-
 {"name":"Sky_Football",
 "info":"ช่องกีฬาอังกฤษ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yo4WAAf-Xv1Q91gEDqajhSrtZXTrcALeTA&usqp=CAU",
@@ -273,14 +267,13 @@
 "url":"https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/chunks.m3u8",
 "referer":"https://freetvdd.com"},
 
-
-
-
 {"name":"Dubai Sports",
 "info":"ช่องกีฬาอาหรับ",
 "image":"https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png",
 "url":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
 "referer":""},
+
+
 
 {"name":"TV3Max",
 "info":"ช่องกีฬาเดนมาร์ก",
@@ -300,11 +293,11 @@
 "url":"https://cdn.googlecdnforstreaming.live/dooballx/tpf1_480/chunks.m3u8",
 "referer":"www.dooballx.com"},
 
-{"name":"Usport",
+{"name":"Usport.co.th",
 "info":"สนุกเกอร์ไทย",
-"image":"https://cdn.usports.co.th/d1_c9f0ed2ba0.png",
-"url":"https://video-weaver.bkk02.hls.live-video.net/v1/playlist/CqwF9YJeWLu3Ju64gDZGwYi9UDqNBDMv8If27Vxft_NsqRpUknMBa2SrtRdAIvel7OWJPab3SWrBr8M3MPqLay0epjBGF0-WGFkLrXCJghHPclLyk4-uUgsieEzpPZi7PmL7Wnd_dFFQg8Z6ZiSz33yOL5NV9WQMZWUpAIIQ6g_5l117_6bD6cHsNGCLJfjwLWhpcHWlxBCIGAJlmoVT_eXiLwqin-sxJeE6lROz3tv49lGKaKY1AS5Mt4GvpCnSGiOqMk_7J4pYZBN5ucc50VlD1EW61qmv8dXvapgmZjil0eQu9-knnEp0N_AP_-BuhXtHEGD56pS_Tb7_PfA5IjOZ8MSlKFPzdPiBn4Q9B_XlCvu53Q2lSPOS456KN8oIJ5ceIuhYh-E0qiDT3g-qpVjGKey4rcUfBLWH1Y6E98P5y8qDGGcJJrM3pHBrim465yHqg9k-t5d8PqpXTzdxXwXztgUErdsRWpu5_NVm4WuSYwE4Y1tT7zKb9q4SaXkPsINFvGx_B6bKfhJKLuzL3ExAHzUNTAcsQyGS4hXzePiJS8NoSCdX3geAQYVBM5u8NhdvdrIoSHNRqNMx_anJ2t5k6jk9lclamCM9C3yfokfyCnH7QAeS7-h-12Vs_glzYAT3akQHIPFrdsYwpQgi5Flj5i3wKK3JBK4pSCx01FK2CNtby-JOeOW6pMl9GK4sB8CmV2ALHTb-hyGYWn8j0DYVyDSuZ4eQRLfSJE32cHRTww9PhltMjrhikrrzUFStSMEe7vpN2HNl-Y-KI-8gzlxE_XVEsrnisfgP0sOAgBHKf4KB8fe6x9Tu8BflomGGZsOUmCosMcL0Wc0UQSLyxvkv29FZlvX9cw9MZmiThuShdd_FNQJVk6nbDwiHTUbzIWvh7eCy_dDDu2Y4hkMFGgyCZ4e9Vp6iWHnrqZ8gASoJdXMtd2VzdC0yMJYG.m3u8"},
-
+"image":"https://www.usports.co.th/brand-logo.png",
+"url":"https://www.usports.co.th/th/livestream",
+"embed":"true"},
 
 ]
 }
