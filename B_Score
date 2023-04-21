@@ -87,14 +87,14 @@
 {"name":"TrueSport2",
 "info":"ทรูสปอร์ท2",
 "image":"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png", 
-"url":"https://cdn1.aws-live-streaming.com/ais/tsp2/chunks.m3u8",
-"referer":"https://aisplay24hd.com"},
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport2.stream/chunks.m3u8",
+"referer":"https://streaming.livescorethai.net"},
 
 {"name":"World Snooker",
 "info":"สนุกเกอร์โลก",
 "image":"https://8ae2a4de9ee4f8108ca6-732c75fe8657c98942557ae4ad757ff6.ssl.cf3.rackcdn.com/WST-Logo-Small-white.png",
-"url":"https://cdn1.aws-live-streaming.com/ais/tsp3/chunks.m3u8",
-"referer":"https://aisplay24hd.com"},
+"url":"https://streaming.livescorethai.net/iptv/hd-tsport3.stream/chunks.m3u8",
+"referer":"https://streaming.livescorethai.net"},
 
 {"name":"Snooker&Football",
 "info":"สนุกเกอร์ไทย ฟุตบอล",
