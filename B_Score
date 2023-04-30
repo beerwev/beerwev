@@ -287,16 +287,16 @@
 "url":"https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8",
 "referer":"https://streaming.livescorethai.net"},
 
-{"name":"TruePremier1",
-"info":"dooballx",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.webp",
-"url":"https://cdn.googlecdnforstreaming.live/dooballx/tpf1_480/chunks.m3u8",
-"referer":"www.dooballx.com"},
+{"name":"TruePremier2",
+"info":"livescorethai",
+"image":"https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_original.png",
+"url":"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"referer":"https://streaming.livescorethai.net"},
 
 {"name":"Usport.co.th",
 "info":"สนุกเกอร์ไทย",
 "image":"https://www.usports.co.th/brand-logo.png",
-"url":"https://video-weaver.bkk02.hls.live-video.net/v1/playlist/Cq4FRKl880PqTuXu54tcqlb4YmLzT3ztzB3-QOJg2M2aOBY795gvpKiZoiH3lCgiqrj4GDRMFYEUXIiwgi-0wgk80XUiwc-h_NqwG_mpWsLft6T5QyXrEtUMQtmqhZLqEZvr2YB0oQUuzuc9YkeI4MLi9TkIzDbFA20eHOEJGWJSwHNLsm4Asau_-TNDUjPHFbkMtW9xxqZTbkPrt99wa-GeQ6fCCPgoSm7pBQpmuWcH_WL5CXn3uLe9rEfyO_T959tuej0ke-ZQlrraHjO9rdkxbAtnq6g31k7-8IYq0kr2P7CcTzSPDrsfG31yjGAL6ld_4rVcYOcnpLmER2NDhydohWzQwOAQoD9ekv0NdJaPHhZEjVHlwKgk5Bf2zG2AaDwwAfQYV4i5BgCGeOJ3Ph7EcRXKBsfQODhdaJcDoaiY707wY52HGu75rdFhhjZjm_hXbsJinmOVkV9SMP5l9_jvDi5RcYKjIkoMfouCNm4iVtGncQ0c_wWJctkoA44cPgsWWjmK8ddpifshmyEh5xKvryfJLcXSCflMHBF_frLa8MeY3DnZdoDaG_KroT3mSN_-q276kFehNunHhA_185sTfB0F0W5vsW0MSzA9lujRCdbOyrtVfmjRriRGVPK6UVaFemZUcwnmYl7oSYLtSOGviIXZRyyu_0NTB4uiB77Jw-2ed-r_4Yodj8ZdWNsAo5UrTu3Lm7OvAztFlbv4gRvDAYe0yh61-C8aFplQH_W-mA2IITrv55kb9mnMTLpQ7gZZxkZxkEmp_neurHesFc-N5R8_zn3yZT6eYZo9rUZ5En1LiZd6LKNpuPrg6obU2R8FuTx2Q0qsqQsAhdGElzp1EzBWhGX2xqI6wH-lvDFbd9LTCVKSg6-A_VODzOFsI8u_BHf3u1NdgVya3BNJrYEaDGGCOrt2ONzt4T46yiABKgl1cy13ZXN0LTIwsAY.m3u8"},
+"url":"link"},
 
 ]
 }
