@@ -1,0 +1,78 @@
+{ 
+"name":"Thai DVD",
+"author":"ทีมงานฝรั่ง ญี่ปุน",
+"info":"",
+"url":"",
+"image":"https://pngimg.com/uploads/cd_dvd/cd_dvd_PNG9079.png",
+
+"stations": 
+[
+
+{"name":"Asian Fever1",
+"image":"https://ist6-2.filesor.com/pimpandhost.com/1/4/9/7/149762/8/O/O/R/8OORu/AsianFever1_Cov_l.jpg",
+"url":"www"},
+
+{"name":"Asian Fever2",
+"image":"https://www.springtowndvd.com/Images/secure/zoom/074369330221f.jpg",
+"url":"www"},
+
+{"name":"Asian Fever3",
+"image":"https://ist6-2.filesor.com/pimpandhost.com/1/4/9/7/149762/8/O/P/g/8OPgu/AsianFever3_Cov_l.jpg",
+"url":"https://hls-uranus.sb-cd.com/hls/4/9/4991753-,480p,.mp4.urlset/master.m3u8?secure=_ezXusWxt-H4RdldGQlTUQ,1650028141&m=19&d=3&_tid=4991753"},
+
+{"name":"Asian Fever4",
+"image":"https://www.springtowndvd.com/Images/secure/zoom/074369330429f.jpg",
+"url":"www"},
+
+{"name":"Asian Fever5",
+"image":"https://ist6-2.filesor.com/pimpandhost.com/1/4/9/7/149762/8/N/l/S/8NlS0/AsianFever7_Cov_l.jpg",
+"url":"www"},
+
+{"name":"Asian Fever6",
+"image":"https://www.springtowndvd.com/Images/secure/zoom/074369330627f.jpg",
+"url":"www"},
+
+{"name":"Asian Fever7",
+"image":"https://ist6-2.filesor.com/pimpandhost.com/1/4/9/7/149762/8/N/l/S/8NlS0/AsianFever7_Cov_l.jpg",
+"url":"www"},
+
+{"name":"Asian Fever8",
+"image":"https://www.springtowndvd.com/Images/secure/zoom/074369330825f.jpg",
+"url":"www"},
+
+{"name":"Asian Fever9",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqP6cddxyJOMQVmJE_ugWfHJAA1tpvhd8EzA&usqp=CAU",
+"url":"www"},
+
+{"name":"Asian Fever10",
+"image":"https://imgs02.aventertainments.com/archive/bigcover/dvd2hv10.webp",
+"url":"https://hls-uranus.sb-cd.com/hls/1/0/10111850-,240p,480p,.mp4.urlset/master.m3u8?secure=Gu5atA6g0AfFzeSxCG4-Tg,1649965291&m=3&d=6&_tid=10111850"},
+
+{"name":"Asian Fever14",
+"image":"https://www.springtowndvd.com/Images/secure/zoom/074369331426f.jpg",
+"url":"www"},
+
+
+
+
+
+
+{"name":"Pleasure Island7",
+"image":"https://www.akiba-online.com/attachments/fdd1307-jpg.1403444/",
+"url":"https://hls-uranus.sb-cd.com/hls/6/1/6194358-,240p,480p,.mp4.urlset/master.m3u8?secure=5v7h7GXoa3EiGR7mYQgrQA,1649965803&m=30&d=5&_tid=6194358"},
+
+
+
+{"name":"Tokyo Hunter19",
+"image":"https://fastimg.clubwarp.com/images/2021/05/04/Cover-CD-1.jpg",
+"url":"https://hls-uranus.sb-cd.com/hls/7/0/7040676-,240p,480p,.mp4.urlset/master.m3u8?secure=DHdEZEgIptscokndlBJt7g,1649966455&m=10&d=2&_tid=7040676"},
+
+
+
+
+
+
+
+
+]
+}
